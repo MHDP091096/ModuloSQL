@@ -1,1 +1,2 @@
-SELECT "Hello world!"; hola 
+/*DDL: CREATE ALTER DROP*/
+ 
